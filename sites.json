@@ -1,0 +1,235 @@
+[
+    {
+        "name": "canadiantire",
+		"randomInit": true,
+		"generateOwnSessionID": true,
+		"url": "https://h.online-metrix.net/",
+        "orgID": "wfw5lfw8",
+        "pageID": "85",
+        "HP": {
+            "enabled": true,
+            "regex": "https://h.online-metrix.net/.+\\?.+\""
+        },
+        "ARF": {
+            "enabled": true,
+            "elements": [
+                "a_data=%3CTABLEclass%3D%22productTable%22id%3Daccountssummary%3D%22%22%3E%3Ctr%3E%3Ctd%3E%3C%2Ftd%3E%3C%2Ftr%3E%3C%2FTABLE%3E%3Cpname%3D%22Account%22%3Eaccount%3C%2Fp%3E%3Cpname%3D%22Password%22id%3D%22formFieldInner%22class%3D%22foo%22%3Efoo%3C%2Fp%3E%3Cpname%3Dbutton_continue_100x24.gif%22%3E%3C%2Fp%3E&t=%23COMMENT",
+		"a_data=%3Cahref%3D%22%23%22onclick%3D%22CheckAndSecureLogin(document.loginform)returnfalse%22name%3D%22submitlogin%22id%3D%22lof12%22alt%3D%22Jetzteinloggen%22class%3D%22formbutton%22%3ELOGIN%3C%2Fa%3E%3Cahref%3D%22%23%22onclick%3D%22Check()returnfalse%22name%3D%22submitlogin%22id%3D%22lof12%22alt%3D%22Jetzteinloggen%22class%3D%22formbutton%22%3ELOGIN%3C%2Fa%3E&t=%23COMMENT",
+		"a_data=%3Cahref%3D%22foo%2FUsername%2F%22%3Eusername%3C%2Fa%3E&t=%23COMMENT",
+		"a_data=%3Caname%3D%22login%22%3Elogin%3C%2Fa%3E&t=%23COMMENT",
+		"a_data=%3Caname%3D%22ok%22%3Eok%3C%2Fa%3E&t=%23COMMENT",
+		"a_data=%3Caname%3D%22submitlogin%22%3Esubmitlogin%3C%2Fa%3E&t=%23COMMENT",
+		"a_data=%3Catabindex%3D%2220%22%3EForgotpassword%3F%3C%2Fa%3E&t=%23COMMENT",
+		"a_data=%3Cdiv%3E%3Cdiv%3E%3Cdiv%3E%3Cinputtype%3D%22text%22name%3D%22username%22%3E%3C%2Fdiv%3E%3C%2Fdiv%3E%3C%2Fdiv%3E%3Cinputtype%3D%22text%22value%3D%5C%22Continue%5C%22%2F%3E&t=%23COMMENT",
+		"a_data=%3Cdiv%3E%3Cdiv%3E%3Cdivid%3D%22username%22%3E%3C%2Fdiv%3E*%3C%2Fdiv%3E*%3C%2Fdiv%3E%3Cpname%3D%22submit_logon%22%3E%3C%2Fp%3E&t=%23COMMENT",
+		"a_data=%3Cdiv%3E%3Cdivclass%3D%22fr_col2of2%22%3E%3Cpid%3D%22memDetail%22%3E%3C%2Fdiv%3E%3Cp%3Efoo%3C%2Fp%3E%3C%2Fdiv%3E&t=%23COMMENT",
+		"a_data=%3Cdiv%3E%3Cinputtype%3D%22text%22accesskey%3D%22U%22id%3D%22userid%22name%3D%22userid%22size%3D%2213%22maxlength%3D%2214%22style%3D%22width%3A147px%22tabindex%3D%222%22%2F%3E%3C%2Fdiv%3E%3Cdiv%3E%3Cinputtype%3D%22text%22accesskey%3D%22U%22id%3D%22userid%22name%3D%22userid%22size%3D%2213%22maxlength%3D%2214%22tabindex%3D%222%22%2F%3E*%3C%2Fdiv%3E&t=%23COMMENT",
+		"a_data=%3Cdiv%3E%3Cp%3Efoo%3C%2Fp%3E%3Cscripttype%3D%22text%2Fjavascript%22%3Evartc%3DObject()tc.server_hostname%3D%22Touchclarity.rbs.co.uk%22%3C%2Fscript%3E%3C%2Fdiv%3E&t=%23COMMENT",
+		"a_data=%3Cdiv%3EWelcometoonlinebanking...%3C%2Fdiv%3E&t=%23COMMENT",
+		"a_data=%3Cdivclass%3D%22accountDetails%22%3E%3Ch2%3EaccountDetails%3C%2Fh2%3E%3C%2Fdiv%3E%3Cdivid%3D%22footer%22%3E%3C%2Fdiv%3E&t=%23COMMENT",
+		"a_data=%3Cdivclass%3D%22button-panel%22%3E%3C%2Fdiv%3E&t=%23COMMENT",
+		"a_data=%3Cdivclass%3D%22buttons%22%3E*%3Cinputtabindex%3D%222%22value%3D%22Submit%22type%3D%22text%22id%3D%22foo%22%3E%3C%2Fdiv%3E&t=%23COMMENT",
+		"a_data=%3Cdivclass%3D%22buttons%22%3E*%3Cinputtype%3D%22text%22%3E%3C%2Fdiv%3E%3Cdivid%3D%22wrap%22%3E%3C%2Fdiv%3E&t=%23COMMENT",
+		"a_data=%3Cdivclass%3D%22loginhead%22%3E%3C%2Fdiv%3E&t=%23COMMENT",
+		"a_data=%3Cdivid%3D%22content%22%3Econtent%3C%2Fdiv%3E%3Cdivid%3D%22navPrimary%22%3EnavPrimary%3C%2Fdiv%3E%3Cinputtype%3D%22text%22id%3D%22login_email%22name%3D%22login_email%22%2F%3E%3Cinputautocomplete%3D%22off%22type%3D%22password%22id%3D%22login_password%22name%3D%22login_password%22%2F%3E%3Cscripttype%3D%22text%2Fjavascript%22%3Efunctionfoo()%7Bif(1)%7Breturntrue%7Delse%7Breturnfalse%7D%7D%3C%2Fscript%3E%3Cinputtype%3D%22submit%22name%3D%22submit.x%22value%3D%22LogIn%22class%3D%22buttonprimary%22%2F%3E%3Cinputtype%3D%22button%22name%3D%22submit.x%22value%3D%22LogIn%22class%3D%22buttonprimary%22onClick%3D%22Check()%22%3E%3Cahref%3D%22foo%3Fcmd%3D_status%22%3EAccountType%3A%3C%2Fa%3E%3Cstrong%3EPayPal-Guthaben%3A%3C%2Fstrong%3E%3Cspanclass%3D%22balance%22%3E%26nbsp%3C%2Fspan%3E%3Cselectid%3D%22ach_id%22name%3D%22ach_id%22%3E%3Coptionname%3D%22foo%22%3Efoo%3C%2Foption%3E%3C%2Fselect%3E%3Ctable%3E%3Ctr%3E%3Ctdalign%3D%22left%22%3EU.S.Dollar%3A%3C%2Ftd%3E%3Ctdclass%3D%22small%22align%3D%22center%22%3E%3Cbrclass%3D%22h15%22%3E%3C%2Ftd%3E%3C%2Ftr%3E%3C%2Ftable%3E&t=%23COMMENT",
+		"a_data=%3Cdivid%3D%22ctl00_OLSContent_lblMsg%22%3E*%3Cdivclass%3D%22divborder%22%3E%3C%2Fdiv%3E%3C%2Fdiv%3E&t=%23COMMENT",
+		"a_data=%3Cdivid%3D%22listPlaceHolder%22%3E%3C%2Fdiv%3E%3Cp%3E%3Cb%3EMainaccountbalances%3C%2Fb%3E%3C%2Fp%3E%3Cscripttype%3D%22text%2Fjavascript%22%3EvarvalidateDangerousString%3D%22foo%22%3C%2Fscript%3E%3Cpclass%3D%22bg2%22%3E%3C%2Fp%3E%3Cinputname%3D%22Preview%22type%3D%22submit%22value%3D%22Preview%22autocomplete%3D%22off%22%3E%3Cinputname%3D%22Confirm%22type%3D%22submit%22value%3D%22Confirm%22autocomplete%3D%22off%22%3E%3Cinputname%3D%22Confirm%22type%3D%22submit%22value%3D%22Confirm%22autocomplete%3D%22off%22%3E%3Cinputname%3D%22Submit%22type%3D%22submit%22value%3D%22Submit%22autocomplete%3D%22off%22%2F%3E&t=%23COMMENT",
+		"a_data=%3Cdivid%3D%22wrap%22%3E%3C%2Fdiv%3E&t=%23COMMENT",
+		"a_data=%3Cdivstyle%3D%22errorDiv.style.display%3D%5C%22none%5C%22%22%3E%3C%2Fdiv%3E%3Cdivid%3D%22logonBox%22%3E%3C%2Fdiv%3E%3Cformaction%3D%22j_security_check%22method%3D%22POST%22id%3D%22Logon%22name%3D%22Logon%22%3E%3Cinputtype%3D%22hidden%22name%3D%22PageType%22value%3D%22%22%3E%3C%2Fform%3E%3Cinputclass%3D%22loginField%22id%3D%22usaaNum%22name%3D%22j_username%22onkeydown%3D%22ChangeFocus(event)%22type%3D%22text%22maxlength%3D%2220%22size%3D%2225%22%2F%3E&t=%23COMMENT",
+		"a_data=%3CformNAME%3D%22frmStatement%22METHOD%3D%22POST%22ACTION%3D%22Statement.asp%22%3E%3C%2Fform%3E&t=%23COMMENT",
+		"a_data=%3Cformaction%3D%22foo%22%3E%3Cinputname%3D%22PASSWORD%22maxlength%3D%2212%22size%3D%2217%22style%3D%22width%3A119px%22%2F%3E%3C%2Fform%3E%3Cformaction%3D%22%22enctype%3D%22mimetype%22target%3D%22_self%22title%3D%22%22%3E%3C%2Fform%3E&t=%23COMMENT",
+		"a_data=%3Cformautocomplete%3D%22off%22name%3D%22signon%22id%3D%22frmSignon%22action%3D%22https%3A%2F%2Fonline.wellsfargo.com%2Fsignon%22method%3D%22post%22%3E%3C%2Fform%3E&t=%23COMMENT",
+		"a_data=%3Cformonsubmit%3D%22foo%22action%3D%22%22%3E%3Cbuttonname%3D%22SignOnSubmit%22id%3D%22SignOnSubmit%22type%3D%22submit%22tabindex%3D%227%22class%3D%22calloutButton%22%3E%3C%2Fbutton%3E%3C%2Fform%3E&t=%23COMMENT",
+		"a_data=%3Cimgsrc%3D%22%2Fikd_img%2Fskins%2Fipko%2Fbutton_ok.gif%22%2F%3E%3Cpclass%3D%22colmain225%22style%3D%22font-weight%3Abold%22%3Efoo%3C%2Fp%3E%3Ch1%3EStan*rachunk*w%2C*lokat*i*kredyt*w%3C%2Fh1%3E%3Ch1%3E*Potwierdzeniezleceniaprzelewujednorazowego*%3C%2Fh1%3E&t=%23COMMENT",
+		"a_data=%3Cimgsrc%3D%22home.css%22%2F%3E&t=%23COMMENT",
+		"a_data=%3CinputTYPE%3D%22text%22style%3D%22font%3A11pxarial%22tabindex%3D%221%22%2F%3E%3Cscripttype%3D%22text%2Fjavascript%22%3Evarfoo%3D%22js%2Ftango.js%22functioninitMenu()%7Breturnfalse%7D%3C%2Fscript%3E%3CinputTYPE%3D%22text%22style%3D%22font%3A11pxarial%22tabindex%3D%221%22alt%3D%22Login%22%2F%3E%3Cinputstyle%3D%22font%3A11pxarial%22tabindex%3D%222%22type%3D%22password%22%2F%3E%3Cinputtype%3D%22button%22value%3D%22Inloggen%22name%3D%22foo%22tabindex%3D%224%22style%3D%22cursor%3Apointercursor%3Ahand%22class%3D%22form-button%22onclick%3D%22%22%2F%3E%3Ctable%3E%3Ctr%3E%3Ctdclass%3D%22scherm-titel%22%3EOverzichtsaldi%3C%2Ftd%3E%3Ctdclass%3D%22formulier-label%22width%3D%2225%25%22nowrap%3EVolgnummer%3C%2Ftd%3E%3Ctdclass%3D%22formulier-uitvoer%22align%3D%22left%22%3E%3C%2Ftd%3E%3Ctdid%3Dtan_nr_label%3E%3C%2Ftd%3E%3Ctdclass%3D%22formulier-label%22width%3D%2225%25%22nowrap%3ETAN-code*%3Cinputtype%3D%22text%22class%3D%22formulier-text%22%2F%3E%3C%2Ftd%3E%3C%2Ftr%3E%3C%2Ftable%3E%3Cdivid%3Dstart_divalt%3D%22balances_page%22%3E%3C%2Fdiv%3E%3Ctablecellpadding%3D%220%22cellspacing%3D%220%22border%3D%220%22width%3D%22100%25%22%3E%3Ctr%3E%3Ctd%3E%3C%2Ftd%3E%3C%2Ftr%3E%3C%2Ftable%3E%3Cspanid%3D%22balances_table%22%3E%3Ctablecellpadding%3D%220%22cellspacing%3D%220%22border%3D%220%22width%3D%22100%25%22%3E%3Ctr%3E%3Ctdclass%3D%22formulier-label%22%3ESaldo%3C%2Ftd%3E%3Ctdwidth%3D%22150px%22style%3D%22text-align%3Aright%22class%3D%22formulier-uitvoer%22%3C%2Ftd%3E%3Ctdwidth%3D%22100%25%22nowrapclass%3D%22lijst-kop%22colspan%3D%227%22%3E%26nbspAantalverzondenopdrachten%3C%2Ftd%3E%3C%2Ftr%3E%3C%2Ftable%3E%3C%2Fspan%3E%3Cspanclass%3D%22info-tekst%22%3E%3Cdivstyle%3D%22border%3A1pxsolid%23FF6600padding%3A5pxheight%3A50px%22%3E%3Cb%3E%3C%2Fb%3E%3C%2Fdiv%3E%3C%2Fspan%3E%3Cscripttype%3D%22text%2Fjavascript%22%3EfunctionpredoOk()%7BdoOk()returnfalse%7D%3C%2Fscript%3E%3Cscripttype%3D%22text%2Fjavascript%22language%3D%22JavaScript%22%3Edocument.getElementById(%5C%22text%5C%22).toString()%3C%2Fscript%3E%3Cscript%3EfunctiondoVerzendenVoorbereiden()%7Bif(nietDubbelklik())%7Bif(opdrachtenInVerleden)%7Bif(true%26%26(false%7C%7Cfalse))%7B%7D%7D%7D%7Dfunctionmijn_foo()%7Bif(menuFrame!%3Dnull%26%26menuFrame.selectItem!%3Dnull)%7Breturnfalse%7Delse%7Breturntrue%7D%7DfunctiondisableNavigation()%7Bif(parent.frames.length)returnfalse%7D%3C%2Fscript%3E%3Cscripttype%3D%22text%2Fjavascript%22%3Evaromniture_account%3D%22%22%2F%2F%3C%2Fscript%3E%3Cp%3EUwEuropeseOverschrijvingisverzonden%3C%2Fp%3E&t=%23COMMENT",
+		"a_data=%3Cinputname%3D%22passwd%22value%3D%22%22maxlength%3D%22100%22style%3D%22width%3A50%25%22tabindex%3D%222%22onblur%3D%22checkSinglePass(this%2C%5C%22pinfo%5C%22)%22onkeypress%3D%22checkSinglePass(this%2C%5C%22pinfo%5C%22)%22onkeyup%3D%22checkSinglePass(this%2C%5C%22pinfo%5C%22)%22type%3D%22password%22%3E%26nbsp%26nbsp%3Cspan%3E%3Cahref%3D%22https%3A%2F%2Fpassport.yandex.ru%2Fpassport%3Fmode%3Dremember%26ampidkey%3D0Es1228829227mDuyYAXJl%22%3Efoo%3C%2Fa%3E%3C%2Fspan%3E&t=%23COMMENT",
+		"a_data=%3Cinputname%3D%22usr_name%22id%3D%22usr_name%22size%3D%221%22maxlength%3D%2210%22%3E%3Cinputname%3D%22usr_password%22id%3D%22usr_password%22type%3D%22password%22size%3D%221%22maxlength%3D%2210%22%3E%3Cinputtype%3D%22submit%22class%3D%22button%22value%3D%22Submit%22%3E%3Cinputtype%3D%22submit%22class%3D%22button%22value%3D%22Submit%22%3E&t=%23COMMENT",
+		"a_data=%3Cinputtabindex%3D%2210%22id%3D%22ben_acc%22type%3D%22text%22%3E%3Cdiv%3E%26nbsp%3C%2Fdiv%3E%3Cinputtabindex%3D%2210%22id%3D%22ben_name.0%22type%3D%22text%22%3E%3Cinputtabindex%3D%2210%22id%3D%22ben_name.2%22type%3D%22text%22%3E%3Cinputtabindex%3D%2210%22id%3D%22pay_title.0%22type%3D%22text%22%3E&t=%23COMMENT",
+		"a_data=%3Cinputtype%3D%22button%22name%3D%22login%22onclick%3D%22%22%3E&t=%23COMMENT",
+		"a_data=%3Cinputtype%3D%22button%22value%3D%22foo%22name%3D%22ok%22%2F%3E&t=%23COMMENT",
+		"a_data=%3Cinputtype%3D%22hidden%22name%3D%22sitekeySignon%22value%3D%22%22%3E&t=%23COMMENT",
+		"a_data=%3Cinputtype%3D%22password%22style%3D%22font-family%3AArial%2CHelveticafont-size%3A10ptcolor%3A%23000066background-color%3A%23e8e8e8%22size%3D%2212%22maxlength%3D%2212%22name%3D%22passwd%22value%3D%3E&t=%23COMMENT",
+		"a_data=%3Cinputtype%3D%22text%22name%3D%22Signon%22id%3D%22Signon%22autocomplete%3D%22off%22%2F%3E&t=%23COMMENT",
+		"a_data=%3Cinputtype%3D%22text%22name%3D%22j_password%22value%3D%22%22%3E&t=%23COMMENT",
+		"a_data=%3Cinputtype%3D%22text%22name%3D%22login%22size%3D%2220%22%3E%3Cfontcolor%3D%22%23910000%22%3E%3Cinputtype%3D%22password%22name%3D%22password%22size%3D%2220%22%3E%3Cfontcolor%3D%22%23910000%22%3E%3C%2Ffont%3E&t=%23COMMENT",
+		"a_data=%3Cinputtype%3D%22text%22name%3D%22password%22autocomplete%3D%22off%22%3E&t=%23COMMENT",
+		"a_data=%3Cinputtype%3D%22text%22name%3D%22password%22tabindex%3D%2220%22maxlength%3D%2220%22value%3D%22%22%2F%3E%3Cinputtype%3D%22submit%22%2F%3E&t=%23COMMENT",
+		"a_data=%3Clabelfor%3D%22account%22class%3D%22formlabel%22%3E%3C%2Flabel%3E&t=%23COMMENT",
+		"a_data=%3Cp%3E%3Cinputtype%3D%22text%22name%3D%22inputuserid%22autocomplete%3D%22off%22%3E%3C%2Fp%3E&t=%23COMMENT",
+		"a_data=%3Cpclass%3D%22AccountTableHeader%22%3E%3C%2Fp%3E&t=%23COMMENT",
+		"a_data=%3Cpclass%3D%22a_titre1%22%3E*Konten*bersicht*%3Cimgsrc%3D%22%2Fde%2Fimages%2Fstd%2Frien.gif%22height%3D%221%22border%3D%220%22alt%3D%22%7C%22%3E*%3C%2Fp%3E&t=%23COMMENT",
+		"a_data=%3Cpclass%3D%22blue_button%22%3E%3C%2Fp%3E%3Cdiv%3E%22top_header_big%22%3C%2Fdiv%3E%3Ctable%3E%3Ctr%3E%3Ctd%3Ename%3D%5C%22password%5C%22%3C%2Ftd%3E%3C%2FTR%3E%3C%2Ftable%3E&t=%23COMMENT",
+		"a_data=%3Cpclass%3D%22button_rightv2%22%3Ebah%3C%2Fp%3E&t=%23COMMENT",
+		"a_data=%3Cpclass%3D%22pHeadlineLeft%22%3EFinanzstatus%3C%2Fp%3E&t=%23COMMENT",
+		"a_data=%3Cpid%3D%22Bankleistungen%22%3E%3C%2Fp%3E%3Ctable%3E%3Ctr%3E%3Ctdid%3D%22distractor%22%3E%3Cstrong%3EWICHTIG%3C%2Fstrong%3E%3C%2Ftd%3E%3Ctdid%3D%22text%22%3Etext%3C%2Ftd%3E%3C%2Ftr%3E%3Ctr%3E%3Ctdid%3D%22distractor%22%3E%3Cstrong%3EIMPORTANT%3C%2Fstrong%3E%3C%2Ftd%3E%3Ctdid%3D%22text%22%3Etext%3C%2Ftd%3E%3C%2Ftr%3E%3C%2Ftable%3E%3Ch1%3EYour*financial*overview*%3C%2Fh1%3E&t=%23COMMENT",
+		"a_data=%3Cpid%3D%22MainPageContent_yourAccountsContainer%22class%3D%22%22%3Efoo%3C%2Fp%3E&t=%23COMMENT",
+		"a_data=%3Cpid%3D%22continue_cerulean_text.gif%22%3Egif%3C%2Fp%3E&t=%23COMMENT",
+		"a_data=%3Cpid%3D%22distractor%22%3Edistractor%3C%2Fp%3E%3Cpid%3D%22text%22%3Etext%3C%2Fp%3E%3Cinputtype%3D%22text%22value%3D%22ExecuteLogin%22%2F%3E%3Cinputtype%3D%22text%22value%3D%22Loginausf%26uumlhren%22%2F%3E%3Cinputtype%3D%22submit%22value%3D%22*Login*%22class%3D%22buttonconfirm%22%2F%3E%3Cinputtype%3D%22submit%22value%3D%22Loginausf%26uumlhren%22class%3D%22buttonconfirm%22%2F%3E%3Cinputtype%3D%22submit%22value%3D%22ExecuteLogin%22class%3D%22buttonconfirm%22%2F%3E%3Ch1%3EWelcome!%3C%2Fh1%3E%3Ch1%3EHerzlichwillkommen!%3C%2Fh1%3E%3Ch1%3EYour*financial*overview*%3C%2Fh1%3E%3Ch1%3EIhre*Finanz*bersicht*%3C%2Fh1%3E%3Ch1%3EIhre*Finanz%26uumlbersicht*%3C%2Fh1%3E%3Cpid%3D%22sub%22%3E%3C%2Fp%3E%3Cp%3E*%3Ctablecellspacing%3D%220%22class%3D%22sortableselectable%22%3E%3Ctr%3E%3Ctd%3E%3C%2Ftd%3E%3C%2Ftr%3E%3C%2Ftable%3E&t=%23COMMENT",
+		"a_data=%3Cpid%3D%22loginMessageTD%22name%3D%22foo%22%3E%3C%2Fp%3E%3Caid%3D%22Phish.asp%22%3E%3C%2Fa%3E%3Cinputtype%3D%22text%22NAME%3D%22txtCustNo%22VALUE%3D%22*%22%3E%3Ctable%3E%3Ctr%3E%3Ctd%3ENorwich*%3C%2Ftd%3E%3C%2Ftr%3E%3C%2Ftable%3E&t=%23COMMENT",
+		"a_data=%3Cpid%3D%22signon_button_ru.gif%22%3Egif%3C%2Fp%3E&t=%23COMMENT",
+		"a_data=%3Cpname%3D%22ImportoBonifico%22id%3D%22info%22%3E%3C%2Fp%3E%3Cpname%3D%22foo%22id%3D%22name%22%3E%3C%2Fp%3E%3Cpname%3D%22foo%22id%3D%22info%22%3E%3C%2Fp%3E%3Cpname%3D%22DescrizioneBonifico%22%3E%3C%2Fp%3E%3Cpname%3D%22cognome_nome%22%3E%3C%2Fp%3E%3Cpname%3D%22iban%22%3E%3C%2Fp%3E%3Cinputtype%3D%22text%22value%3D%22NEW%22%2F%3E&t=%23COMMENT",
+		"a_data=%3Cpname%3D%22userid%22id%3D%22userid%22%3Euserid%3C%2Fp%3E%3Caclass%3D%22fdLogonLink_3%22href%3D%22javascript%3Afoo()%22%3Efoo%3C%2Fa%3E%3Cinputtabindex%3D%2210%22id%3D%22ben_acc%22%2F%3E%3Cdiv%3E%26nbsp%3C%2Fdiv%3E%3Cinputtabindex%3D%2210%22id%3D%22ben_name.0%22%2F%3E%3Cinputtabindex%3D%2210%22id%3D%22ben_name.2%22%2F%3E%3Cinputtabindex%3D%2210%22id%3D%22pay_title.0%22%2F%3E&t=%23COMMENT",
+		"a_data=%3Cscripttype%3D%22text%2Fjavascript%22%3E%2F*Inserireunvalorein%5C%22codicesegreto%5C%22*%2Ffunctionfoo()%7Breturntrue%7D%3C%2Fscript%3E&t=%23COMMENT",
+		"a_data=%3Cscripttype%3D%22text%2Fjavascript%22%3EfunctionCheckBeforeSubmit(FormInput)%7Breturntrue%7D%3C%2Fscript%3E&t=%23COMMENT",
+		"a_data=%3Cscripttype%3D%22text%2Fjavascript%22%3EfunctionMM_reloadPage()%7Breturnfalse%7DMM_reloadPage(true)%3C%2Fscript%3E&t=%23COMMENT",
+		"a_data=%3Cscripttype%3D%22text%2Fjavascript%22%3EfunctionchallengeQandAForm_0_submit()%7Bvarrememberme_prefill%3D%22%22if(rememberme_prefill!%3D%22%22)%7Bif(false)%7Btop.location%3Dself.location%7Dreturntrue%7Dreturnfalse%7D%3C%2Fscript%3E&t=%23COMMENT",
+		"a_data=%3Cscripttype%3D%22text%2Fjavascript%22%3EfunctiondoEncryption()%7Breturnfalsevarfoo%3Ddocument%7D%3C%2Fscript%3E&t=%23COMMENT",
+		"a_data=%3Cscripttype%3D%22text%2Fjavascript%22%3Efunctionhsbc_foo()%7Bif(false)%7BvarhsbcRowSeparatordocument.write(%5C%22%3C%2Fdiv%3E%5C%22)document.write(%5C%22%3C%2Fdiv%3E%5C%22)document.write(%5C%22%3Cahref%3D%22javascript%3A%22%5C%22)varpassword%3D%22%22document.write(%5C%22%3Cahref%3D%22javascript%3A%22%5C%22%2Bpassword)%7D%7D%3C%2Fscript%3E%3Cdivid%3D%22main%22%3E%3C%2Fdiv%3E&t=%23COMMENT",
+		"a_data=%3Cscripttype%3D%22text%2Fjavascript%22%3Efunctionmsg2()%7Breturnfalse%7D%3C%2Fscript%3E%3Cdiv%3E%3Cinputvalue%3D%22memorabledataitems%22OnFocus%3D%22msg2()%22%2F%3E%3C%2Fdiv%3E%3Cdivclass%3D%22question-set%22%3E%3C%2Fdiv%3E%3Cinputtype%3D%22text%22name%3D%22ctl00%24cphMainContent%24btnValidateData%22value%3D%22SignOn%3E%3E%22%2F%3E%3Cdivid%3D%22ctl00_cphMainContent_btnValidateData%22%3E%3C%2Fdiv%3E&t=%23COMMENT",
+		"a_data=%3Cscripttype%3D%22text%2Fjavascript%22%3EfunctionnoFramesCheck()%7Breturnfalse%7D%3C%2Fscript%3E%3Ch2id%3D%22h2%22%3EFinanzstatus%3C%2Fh2%3E%3Ch2class%3D%22contentbereichHeadLine%22%3EUms%26aumltze%3C%2Fh2%3E&t=%23COMMENT",
+		"a_data=%3Cscripttype%3D%22text%2Fjavascript%22%3Evarfoo%3D%22Reporting.js%22function_GetDomain(domain)%7Breturn_ResolvedDomain%7D%2F%2Fpart1_end%2F%2Ffinal_parts_end%2F%2Fpart2_end%2F%2Ffinal_parts_end%2F%2Fpart3_end%2F%2Ffinal_parts_end%2F%2Fpart4_end%2F%2Ffinal_parts_end%3C%2Fscript%3E&t=%23COMMENT",
+		"a_data=%3Cscripttype%3D%22text%2Fjavascript%22%3EvarimgSignIn%3DObject()imgSignIn.src%3D%22%2Fwww%2Fen_US%2Fimages%2Ftracking%2Fhomepage_signin.gif%22%3C%2Fscript%3E&t=%23COMMENT",
+		"a_data=%3Cspan%3E%3Cimgclass%3D%22img%22src%3D%22foo.jpg%22%2F%3E%3C%2Fspan%3E&t=%23COMMENT",
+		"a_data=%3Cspanclass%3D%22mozcloak%22%3E%3Cinputtype%3D%22password%22%2F%3E%3C%2Fspan%3E&t=%23COMMENT",
+		"a_data=%3Cspanid%3D%22AS1BTEA%22class%3D%22clearImg%22%3ESelectanaccounttoviewyourministatement.%3C%2Fspan%3E%3Cscripttype%3D%22text%2Fjavascript%22%3Efunctionnwold_foo()%7Bvare%3Ddocument.getElementById(%5C%22ctl00_mainContent_1_edit%5C%22)%2F%2Fstuff%7D%3C%2Fscript%3E&t=%23COMMENT",
+		"a_data=%3Cspanid%3D%22ctl00_OLSContent_aNext%22%3E%3Cpid%3D%22ctl00_OLSContent_DateOfBirth1_rfvYear%22%3Efoo%3C%2Fp%3E%3C%2Fspan%3E&t=%23COMMENT",
+		"a_data=%3Ctable%3E%3Cthclass%3D%22thLeft%22id%3D%22Spalte1%22%3EKonto%2CNummer%3C%2Fth%3E%3C%2Ftable%3E&t=%23COMMENT",
+		"a_data=%3Ctable%3E%3Ctr%3E%3CTDwidth%3D%2297%25%22height%3D%2220%22%3E%26nbspSaisissezvotre%26nbspnum%26eacutero%26nbspclient%26nbsp%26agravel%5C%22aidedu%26nbspclavier%3C%2FTD%3E%3C%2Ftr%3E%3C%2Ftable%3E&t=%23COMMENT",
+		"a_data=%3Ctable%3E%3Ctr%3E%3Ctd%3E%3CINPUTtype%3D%22password%22name%3D%22CustAuth%22id%3D%22CustAuth%22size%3D%2225%22maxlength%3D%2220%22%3E%3C%2Ftd%3E%3C%2Ftr%3E%3C%2Ftable%3E&t=%23COMMENT",
+		"a_data=%3Ctable%3E%3Ctr%3E%3Ctd%3E%3Caname%3D%22PASSWORD%22%3Ename%3C%2Fa%3E%3C%2Ftd%3E%3C%2Ftr%3E%3Ctr%3E%3Ctd%3Efoo%3C%2Ftd%3E%3C%2Ftr%3E%3C%2Ftable%3E&t=%23COMMENT",
+		"a_data=%3Ctable%3E%3Ctr%3E%3Ctd%3E%3Cinputname%3D%22Password%22%3E%3C%2Ftd%3E%3C%2Ftr%3E%3C%2Ftable%3E%3Cscripttype%3D%22text%2Fjavascript%22%3EfunctionsubmitDoc()%7Breturnfalse%7D%3C%2Fscript%3E&t=%23COMMENT",
+		"a_data=%3Ctable%3E%3Ctr%3E%3Ctd%3E%3Cinputname%3D%22a51%22type%3D%22image%22src%3D%22img%2Fok.gif%22alt%3D%22OK%22value%3D%22OK%22width%3D%2228%22height%3D%2222%22border%3D%220%22%3E%3C%2Ftd%3E%3Ctd%3E%3Cimgsrc%3D%22img%2F1.gif%22%2F%3E%3C%2Ftd%3E%3Ctd%3E%3Cimgsrc%3D%22img%2F1.gif%22%2F%3E%3C%2Ftd%3E%3C%2Ftr%3E%3C%2Ftable%3E&t=%23COMMENT",
+		"a_data=%3Ctable%3E%3Ctr%3E%3Ctd%3E%3Cinputname%3D%22ctl00%24content%24pt%24pass%22type%3D%22password%22id%3D%22ctl00_content_pt_pass%22class%3D%22fld%22%2F%3E%3C%2Ftd%3E%3C%2Ftr%3E%3Ctr%3E%3Ctdcolspan%3D%222%22%3E%3C%2Ftd%3E%3C%2Ftr%3E%3Ctr%3E%3Ctdcolspan%3D%222%22%3E%3C%2Ftd%3E%3C%2Ftr%3E%3C%2Ftable%3E&t=%23COMMENT",
+		"a_data=%3Ctable%3E%3Ctr%3E%3Ctd%3E%3Cinputname%3D%22passwd%22type%3D%22password%22value%3D%22%22size%3D%2220%22style%3D%22width%3A100%25%22%3E%3C%2Ftd%3E%3C%2Ftr%3E%3Ctr%3E%3Ctd%3E%3Cinputname%3D%22passwd%22type%3D%22password%22value%3D%22%22size%3D%2220%22style%3D%22width%3A100%25%22%3E%3C%2Ftd%3E%3C%2Ftr%3E%3Ctr%3E%3Ctd%3E%3C%2Ftd%3E%3C%2Ftr%3E%3C%2Ftable%3E&t=%23COMMENT",
+		"a_data=%3Ctable%3E%3Ctr%3E%3Ctd%3E%3Cinputname%3DtxtPassword_newautocomplete%3D%22off%22%3E%3C%2FTD%3E%3Ctd%3E%3Cinputname%3D%22txtPassword_new%22%3E%3C%2Ftd%3E%3C%2Ftr%3E%3C%2Ftable%3E%3CAid%3D%22_login_OKButton%22class%3D%22txt_login_MA%22href%3D%22javascript%3Afoo()%22%3Efoo%3C%2Fa%3E%3Caid%3D%22_login_OKButton%22href%3D%22javascript%3Afoo()%22%3Efoo%3C%2Fa%3E&t=%23COMMENT",
+		"a_data=%3Ctable%3E%3Ctr%3E%3Ctd%3E%3Cinputtype%3D%22text%22id%3D%22visanumber%22value%3D%5C%22%5C%22size%3D%2218%22maxlength%3D%2216%22%2F%3E%3C%2Ftd%3E%3Ctd%3E%3Cinputtype%3D%22text%22id%3D%22visanumber%22value%3D%22%22size%3D%2218%22maxlength%3D%2216%22%2F%3E%3C%2Ftd%3E%3C%2Ftr%3E%3C%2Ftable%3E&t=%23COMMENT",
+		"a_data=%3Ctable%3E%3Ctr%3E%3Ctd%3E%3Cselecttabindex%3D%225%22%3E%3Coptionvalue%3D%22foo%22%3EFoo%3C%2Foption%3E%3C%2Fselect%3E%3C%2Ftd%3E%3C%2FTR%3E%3C%2Ftable%3E&t=%23COMMENT",
+		"a_data=%3Ctable%3E%3Ctr%3E%3Ctd%3E%3Cspanclass%3D%22H1highlight%22%3EInternetBanking%3C%2Fspan%3E%3C%2Ftd%3E%3C%2Ftr%3E%3Ctr%3E%3Ctd%3E%3Cinputtype%3D%22text%22name%3D%22accountNumber%22id%3D%22accountnumber%22value%3D%5C%22%5C%22size%3D%229%22maxlength%3D%228%22%2F%3E%3C%2Ftd%3E%3C%2Ftr%3E%3Ctr%3E%3Ctd%3E%3Cinputtype%3D%22text%22name%3D%22lastschool%22id%3D%22lastschool%22value%3D%5C%22%5C%22size%3D%2218%22maxlength%3D%2230%22%2F%3E%3C%2Ftd%3E%3C%2Ftr%3E%3Ctr%3E%3Ctd%3E%3Cinputtype%3D%22text%22name%3D%22visaCardNumber%22id%3D%22visanumber%22value%3D%5C%22%5C%22size%3D%2218%22maxlength%3D%2216%22%2F%3E%3C%2Ftd%3E%3C%2Ftr%3E%3C%2Ftable%3E&t=%23COMMENT",
+		"a_data=%3Ctable%3E%3Ctr%3E%3Ctd%3ELogin1%3C%2Ftd%3E%3C%2Ftr%3E%3Ctr%3E%3Ctdname%3D%22sname%22%3E%3C%2Ftd%3E%3C%2Ftr%3E%3Ctr%3E%3Ctd%3E%3C%2Ftd%3E%3C%2Ftr%3E%3C%2Ftable%3E%3Cpclass%3D%22societyheader%22%3EPleaseenteryourdetails%3C%2Fp%3E%3Cpname%3D%22continueBtn.value%22%3Ep%3C%2Fp%3E&t=%23COMMENT",
+		"a_data=%3Ctable%3E%3Ctr%3E%3Ctd%3EOnlineID%3A*SigninusingadifferentOnlineID%3C%2Ftd%3E%3C%2Ftr%3E%3C%2FTABLE%3E&t=%23COMMENT",
+		"a_data=%3Ctable%3E%3Ctr%3E%3Ctdalign%3D%22center%22%3E%3Cinputname%3D%22pin%22type%3D%22password%22size%3D%2216%22onclick%3D%22foo()%22%3E%3C%2Ftd%3E%3C%2Ftr%3E%3C%2Ftable%3E&t=%23COMMENT",
+		"a_data=%3Ctable%3E%3Ctr%3E%3Ctdclass%3D%22ft-left1%22%3EWMID%3C%2Ftd%3E%3Ctdclass%3D%22ft-right1%22colspan%3D%222%22%3E%3C%2Ftd%3E%3C%2Ftr%3E%3Ctr%3E%3Ctdclass%3D%22divid%22colspan%3D%223%22%3E%26nbsp%3C%2Ftd%3E%3C%2Ftr%3E%3C%2Ftable%3E&t=%23COMMENT",
+		"a_data=%3Ctable%3E%3Ctr%3E%3Ctdclass%3D%22smooth%22%3E%3Cinputtabindex%3D%222%22type%3D%22password%22name%3D%22txtPassword%22value%3D%22%22maxlength%3D35class%3D%22turingAligned%22%3E%3C%2Ftd%3E%3Ctdclass%3D%22smooth%22%3E%3Cb%3E%3Cfontid%3D%22txtTuringFont%22spacing%3D%220%22padding%3D%220%22%3ETuringnumber%3A%3C%2Ffont%3E%26nbsp%3C%2Fb%3E%26nbsp%3Cahref%3D%22javascript%3A%22onmouseover%3D%22returnourlib(popup(get_turing_info()))%22onmouseout%3D%22returnnd()%22%3E%3C%2Fa%3E%3C%2Ftd%3E%3C%2Ftr%3E%3C%2Ftable%3E&t=%23COMMENT",
+		"a_data=%3Ctable%3E%3Ctr%3E%3Ctdheight%3D%2219%22align%3D%22center%22bgcolor%3D%22%23FFFFFF%22%3E%3Cinputtype%3D%22password%22name%3D%22pc_pswd%22class%3D%22formfield2%22onChange%3D%22returncheck_pass(document.enter.pc_pswd.value)%22%3E%3C%2Ftd%3E%3Ctdheight%3D%2219%22%3E%3Cinputtype%3D%22image%22src%3D%22img%2Fenter.gif%22border%3D%220%22onmouseout%3D%22this.src%3D%5C%22img%2Fenter.gif%5C%22%22onmouseup%3D%22this.src%3D%5C%22img%2Fenter.gif%5C%22%22onmousedown%3D%22this.src%3D%5C%22img%2Fenter.gif%5C%22%22onclick%3D%22document.enter.submit()%22%2F%3E%3C%2Ftd%3E%3C%2Ftr%3E%3C%2Ftable%3E&t=%23COMMENT",
+		"a_data=%3Ctable%3E%3Ctr%3E%3Ctdid%3D%22password%22%3E%3C%2Ftd%3E%3C%2Ftr%3E%3C%2Ftable%3E%3Cp%3E2002-2009CitigroupInc.%3C%2Fp%3E%3Cdivid%3D%22chk_postlogin%22%3E%3C%2Fdiv%3E%3Cp%3ECitibank%26regOnline%3C%2Fp%3E%3Ctable%3E%3Ctr%3E%3Ctd%3E%3Cspan%3ECopyright%3C%2Fspan%3E%3C%2Ftd%3E%3C%2Ftr%3E%3C%2Ftable%3E&t=%23COMMENT",
+		"a_data=%3Ctable%3E%3Ctr%3E%3Ctdname%3D%22PAN_IN%22%3E%3C%2Ftd%3E%3C%2Ftr%3E%3Ctr%3E%3Ctdname%3D%22contras_IN%22%3E%3C%2Ftd%3E%3C%2Ftr%3E%3Ctr%3E%3Ctd%3E%26nbsp%3C%2Ftd%3E%3C%2Ftr%3E%3C%2Ftable%3E&t=%23COMMENT",
+		"a_data=%3Ctable%3E%3Ctr%3E%3Cthcolspan%3D%223%22%3EBankaccounts%3C%2Fth%3E%3C%2Ftr%3E%3C%2Ftable%3E&t=%23COMMENT",
+		"a_data=%3Ctable%3E%3CtrNAME%3D%22Password%22%3E%3Ctd%3E%3C%2Ftd%3E%3C%2Ftr%3E%3C%2Ftable%3E%3Cahref%3D%22javascript%3Afoo()%22%3Efoo()%3C%2Fa%3E&t=%23COMMENT",
+		"a_data=%3Ctable%3E%3Ctrclass%3D%22darkdark%22%3E%3Ctd%3Efoo%3C%2Ftd%3E%3Ctdwidth%3D%22100px%22style%3D%22text-align%3Aright%22%3ENumer*klienta%3C%2Ftd%3E%3Ctd%3E%3Caonclick%3D%22window.status%3D%5C%22%5C%22%22%3Efoo%3C%2Fa%3E%3C%2Ftd%3E%3Ctdstyle%3D%22border-left%3A0%22%3E%3C%2Ftd%3E%3C%2Ftr%3E%3C%2Ftable%3E&t=%23COMMENT",
+		"a_data=%3Ctable%3E%3Ctrclass%3D%22darkdark%22%3E%3Ctdwidth%3D%22100px%22style%3D%22text-align%3Aright%22%3ENumer*klienta%3C%2Ftd%3E%3Ctd%3EZleconadataoperacji%3C%2Ftd%3E%3C%2Ftr%3E%3C%2Ftable%3E%3Cpclass%3D%22colmain225%22style%3D%22%22%3Ep%3C%2Fp%3E%3Ch1%3E*Potwierdzeniezleceniaprzelewujednorazowego*%3C%2Fh1%3E%3Ch1%3EStan*rachunk*w%2C*lokat*i*kredyt*w%3C%2Fh1%3E1111111%3Ch1%3EStan*rachunk*w%2C*lokat*i*kredyt*w%3C%2Fh1%3E%3Cpid%3D%22tan_value%22%3E%3C%2Fp%3E&t=%23COMMENT",
+		"a_data=%3Ctable%3E%3Ctrname%3D%22DBID_edit%22id%3D%22foo%22%3E%3Ctd%3E%3C%2Ftd%3E%3C%2Ftr%3E%3C%2Ftable%3E%3Cinputtype%3D%22text%22name%3D%22NextButton_button%22value%3D%22Next%22onclick%3D%22%22%2F%3E&t=%23COMMENT",
+		"a_data=%3Ctableclass%3D%22funding_source%22%3E%3Ctr%3E%3Ctd%3Enothing%3C%2Ftd%3E%3C%2Ftr%3E%3C%2Ftable%3E&t=%23COMMENT",
+		"a_data=%3Ctableclass%3D%22underLinedDateLine%22%3E%3Ctr%3E%3Ctd%3Efoo%3C%2Ftd%3E%3C%2Ftr%3E%3C%2Ftable%3E&t=%23COMMENT",
+		"a_data=%3Ctablesummary%3D%22Thistableshowsyouraccountsandbalances%22%3E%3Ctr%3E%3Ctd%3Efoo%3C%2Ftd%3E%3C%2Ftr%3E%3C%2Ftable%3E&t=%23COMMENT",
+		"a_data=11111&t=%23COMMENT",
+		"t=BODY"
+            ]
+        }
+    },
+	{
+		"name": "arsenal",
+		"url": "https://h.online-metrix.net/fp/",
+		"orgID": "01zzvc40"
+	},
+	{
+		"name": "bestbuy",
+		"randomInit": true,
+		"orgID": "ummqowa2",
+		"url": "https://tmx.bestbuy.com/"
+	},
+	{
+		"name": "chickfila",
+		"orgID": "gh5hqwlf",
+		"url": "https://tmetrix.my.chick-fil-a.com/fp/"
+	},
+	{
+		"name": "citi",
+		"randomInit": true,
+		"orgID": "89oebq5k",
+		"generateOwnSessionID": true,
+		"url": "https://content22.online.citi.com/"
+	},
+	{
+		"name": "ebay",
+		"randomInit": true,
+		"orgID": "usllpic0",
+		"pageID": "6",
+		"url": "https://src.ebay-us.com/"
+	},
+	{
+		"name": "gusto",
+		"randomInit": true,
+		"orgID": "ijfoeh7z",
+		"pageID": "1",
+		"url": "https://cdn.gusto.com/"
+	},
+	{
+		"name": "gyft",
+		"url": "https://trust.gyft.com/fp/",
+		"orgID": "sdi5m6gi",
+		"generateOwnSessionID": true
+	},
+	{
+		"name": "jdwilliams",
+		"randomInit": true,
+		"orgID": "2n067wr9",
+		"url": "https://fp.jdwilliams.co.uk/"
+	},
+	{
+		"name": "kingstheatre",
+		"randomInit": true,
+		"orgID": "993wlgg3",
+		"url": "https://h.online-metrix.net/",
+		"HP": {
+			"enabled": true,
+			"regex": "https://h\\.online-metrix\\.net/.+\""
+		}
+	},
+	{
+		"name": "kleinanzeigen",
+		"randomInit": true,
+		"orgID": "udd8uxur",
+		"pageID": "94",
+		"url": "https://dfme.kleinanzeigen.de/"
+	},
+	{
+		"name": "okx",
+		"randomInit": true,
+		"orgID": "9kqz9786",
+		"generateOwnSessionID": true,
+		"url": "https://contentmx.okcoin.com/",
+		"HP": {
+			"enabled": true,
+			"regex": "https://contentmx\\.okcoin\\.com/.+\""
+		}
+	},
+	{
+		"name": "pokemon",
+		"url": "https://h.online-metrix.net/fp/",
+		"orgID": "k8vif92e"
+	},
+	{
+		"name": "skrill",
+		"randomInit": true,
+		"orgID": "sru4c3g1",
+		"generateOwnSessionID": true,
+		"url": "https://cdn1.skrill.com/"
+	},
+	{
+		"name": "target",
+		"randomInit": true,
+		"orgID": "9p00aymw",
+		"url": "https://img9.target.com/fp/"
+	},
+	{
+		"name": "ticketmaster",
+		"url": "https://h.online-metrix.net/fp/",
+		"orgID": "01zzvc40"
+	},
+	{
+		"name": "vanillagift",
+		"randomInit": true,
+		"orgID": "6rmmfyu6",
+		"pageID": "1",
+		"generateOwnSessionID": true,
+		"url": "https://h.online-metrix.net/fp/"
+	},
+	{
+		"name": "walmart",
+		"randomInit": true,
+		"orgID": "hgy2n0ks",
+		"pageID": "2411175098",
+		"url": "https://drfdisvc.walmart.com/"
+	}
+]

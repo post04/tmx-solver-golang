@@ -1,0 +1,4 @@
+{
+  "mongodb": "mongodb://username:password@IP:PORT/?directConnection=true&serverSelectionTimeoutMS=10000",
+  "adminKey": "someSecurePassword"
+}
